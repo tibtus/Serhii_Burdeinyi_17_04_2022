@@ -14,11 +14,6 @@ localStorage.clear()
 ```bash
 the index.html file dist folder is ready to view the project
 ```
-
-```bash
-the index.html file dist folder is ready to view the project
-```
-
 ```Work
 Technologies: vanilla JS. 
 
